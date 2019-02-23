@@ -1,0 +1,29 @@
+{
+  "name": "lbmesh-os",
+  "version": "1.0.0",
+  "description": "Operating System Profile for LB Mesh",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lb-mesh/lbmesh-osprofile.git"
+  },
+  "keywords": [
+    "lbmesh",
+    "loopback",
+    "os",
+    "workstation",
+    "server"
+  ],
+  "author": "Jamil Spain <jamilhassanspain@gmail.com> (http://www.jamilspain.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lb-mesh/lbmesh-osprofile/issues"
+  },
+  "homepage": "https://github.com/lb-mesh/lbmesh-osprofile#readme",
+  "dependencies": {
+    "os": "^0.1.1"
+  }
+}
