@@ -32,7 +32,7 @@ Works cross-platform.
 License
 ------
 
-MIT. Copyright &copy; [Jamil Spain](http://www.jamilspain.com)
+Copyright &copy; [Jamil Spain](http://www.jamilspain.com). Release under the MIT License.
 
 
 
