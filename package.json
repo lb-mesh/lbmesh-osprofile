@@ -11,9 +11,10 @@
     "url": "git+https://github.com/lb-mesh/lbmesh-osprofile.git"
   },
   "keywords": [
-    "lbmesh",
+    "lbmesh.io",
     "loopback",
     "os",
+    "operating system",
     "workstation",
     "server"
   ],
