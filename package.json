@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/lb-mesh/lbmesh-osprofile#readme",
   "dependencies": {
+    "global-modules": "^2.0.0",
     "os": "^0.1.1"
   }
 }
